@@ -1,0 +1,55 @@
+.ContactTitleWrapper{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.ContactTitle{
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 3px;
+
+}
+
+.ContactTextWrapper{
+  height: 200px;
+  width: 90%;
+  min-width: 300px;
+  margin: auto;
+}
+
+.leftTable{
+  height: 200px;
+  width: 49%;
+  float: left;
+  display: block;
+
+
+}
+
+.rightTable{
+  height: 200px;
+  width: 50%;
+  float: right;
+  display: block;
+
+}
+
+.leftTableText{
+width: 100%;
+text-align: right;
+padding: 10px;
+padding-right : 5px;
+font-family: courier;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+.rightTableText{
+  width: 100%;
+  text-align: left;
+  padding: 10px;
+  font-family: courier;
+    font-size: 12px;
+    letter-spacing: 2px;
+}

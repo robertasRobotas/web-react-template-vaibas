@@ -1,0 +1,30 @@
+.IntroductionTitleWrapper{
+  padding-top:50px;
+}
+
+
+.IntroductionTitle{
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 1px
+}
+
+
+.IntroductionArticleWrapper{
+  margin-top: 40px;
+}
+
+.IntroductionArticle{
+  width: 80%;
+  margin: auto;
+  letter-spacing: 2px;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.SubPage{
+  background-color: yellow;
+  min-height: 50vh;
+  height: auto;
+}

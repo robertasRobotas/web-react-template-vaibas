@@ -1,0 +1,10 @@
+
+.Page{
+
+  height: 100vh;
+  }
+
+.SubPage{
+  background-color: yellow;
+  height: 50vh;
+}

@@ -1,0 +1,23 @@
+.PlayerWrapper{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.Player{
+  margin: auto;
+}
+
+.PortfolioTitleWrapper{
+    margin-top: 70px;
+}
+
+.PortfolioTitle{
+  margin: auto;
+  text-align: center;
+
+}
+
+.Page{
+  min-height: 100vh;
+  height: auto;
+}
